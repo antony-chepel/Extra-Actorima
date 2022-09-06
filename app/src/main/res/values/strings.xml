@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Extra Actorima</string>
+    <string name="author1">Albert Einstein</string>
+    <string name="author1_desc">The smarter a person is, the easier it is for him to recognize himself as a fool.</string>
+    <string name="author2">Theodore Roosevelt</string>
+    <string name="author2_desc">The one who does nothing is never wrong</string>
+
+    <string name="author3">Lev Nikolayevich Tolstoy</string>
+    <string name="author3_desc">Least of all are people who want to appear simple</string>
+
+    <string name="author4">Steve Jobs</string>
+    <string name="author4_desc">We are here to contribute to this world. Why else are we here?</string>
+
+    <string name="author5">Martin Luther King</string>
+    <string name="author5_desc">If a person has not found something to die for, he is not able to live.</string>
+
+    <string name="author6">John Lennon</string>
+    <string name="author6_desc">Music turns on the heart so that the body dances and sings. And there is music with which you want to share everything that hurts</string>
+
+    <string name="author7">Lao Tzu</string>
+    <string name="author7_desc">If someone has harmed you, do not take revenge. Sit on the bank of the river and soon you will see the corpse of your enemy floating past you.</string>
+
+    <string name="author8">Henry Ford</string>
+    <string name="author8_desc">If its hard for you, then youre going uphill. If its easy for you, then youre flying into the abyss</string>
+</resources>
